@@ -1,0 +1,4 @@
+# Keep the repo to the five entry files: ignore local run outputs.
+/output/
+**/__pycache__/
+**/*.pyc
